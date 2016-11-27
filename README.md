@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #SpringBoot-Learning
 
 本项目内容为Spring Boot教程程序样例。
@@ -104,3 +105,6 @@ http://blog.didispace.com/book/springboot/
 <img src="http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png" width="200px" height="200px;" /> <img src="http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png" width="200px" height="200px;" />
 
 
+=======
+# SpringBoot-demo
+>>>>>>> 65738d2324e82ec02d6040b1e16be2183465fa7a
